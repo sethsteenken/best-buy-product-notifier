@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BestBuyProductAvailabilityNotifier": {
+      "commandName": "Project",
+      "commandLineArgs": "OLED77GXPUA"
+    }
+  }
+}
